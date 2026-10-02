@@ -1,0 +1,137 @@
+﻿Trip ID;Destination;Start Date;End Date;Duration (Days);Traveler Name;Traveler Age;Traveler Gender;Traveler Nationality;Accommodation Type;Accommodation Cost;Transportation Type;Transportation Cost;Total Cost;Trip Month-Year;Traveler Age Group
+1;London, UK;01-maj-23;08-maj-23;7;John Smith;35;Male;American;Hotel;1200;Flight;600;1800;May 2023;26–35
+2;Phuket, Thailand;15-cze-23;20-cze-23;5;Jane Doe;28;Female;Canadian;Resort;800;Flight;500;1300;Jun 2023;26–35
+3;Bali, Indonesia;01-lip-23;08-lip-23;7;David Lee;45;Male;Korean;Villa;1000;Flight;700;1700;Jul 2023;36–50
+4;New York, USA;15-sie-23;29-sie-23;14;Sarah Johnson;29;Female;British;Hotel;2000;Flight;1000;3000;Aug 2023;26–35
+5;Tokyo, Japan;10-wrz-23;17-wrz-23;7;Kim Nguyen;26;Female;Vietnamese;Airbnb;700;Train;200;900;Sep 2023;26–35
+6;Paris, France;05-paź-23;10-paź-23;5;Michael Brown;42;Male;American;Hotel;1500;Flight;800;2300;Oct 2023;36–50
+7;Sydney, Australia;20-lis-23;30-lis-23;10;Emily Davis;33;Female;Australian;Hostel;500;Flight;1200;1700;Nov 2023;26–35
+8;Rio de Janeiro, Brazil;05-sty-24;12-sty-24;7;Lucas Santos;25;Male;Brazilian;Airbnb;900;Flight;600;1500;Jan 2024;Under 25
+9;Amsterdam, Netherlands;14-lut-24;21-lut-24;7;Laura Janssen;31;Female;Dutch;Hotel;1200;Train;200;1400;Feb 2024;26–35
+10;Dubai, United Arab Emirates;10-mar-24;17-mar-24;7;Mohammed Ali;39;Male;Emirati;Resort;2500;Flight;800;3300;Mar 2024;36–50
+11;Cancun, Mexico;01-kwi-24;08-kwi-24;7;Ana Hernandez;27;Female;Mexican;Hotel;1000;Flight;500;1500;Apr 2024;26–35
+12;Barcelona, Spain;15-maj-24;22-maj-24;7;Carlos Garcia;36;Male;Spanish;Airbnb;800;Train;100;900;May 2024;36–50
+13;Honolulu, Hawaii;10-cze-24;18-cze-24;8;Lily Wong;29;Female;Chinese;Resort;3000;Flight;1200;4200;Jun 2024;26–35
+14;Berlin, Germany;01-lip-24;10-lip-24;9;Hans Mueller;48;Male;German;Hotel;1400;Flight;700;2100;Jul 2024;36–50
+15;Marrakech, Morocco;20-sie-24;27-sie-24;7;Fatima Khouri;26;Female;Moroccan;Riad;600;Flight;400;1000;Aug 2024;26–35
+16;Edinburgh, Scotland;05-wrz-24;12-wrz-24;7;James MacKenzie;32;Male;Scottish;Hotel;900;Train;150;1050;Sep 2024;26–35
+17;Paris;01-wrz-23;10-wrz-23;9;Sarah Johnson;30;Female;American;Hotel;900;Plane;400;1300;Sep 2023;26–35
+18;Bali;15-sie-23;25-sie-23;10;Michael Chang;28;Male;Chinese;Resort;1500;Plane;700;2200;Aug 2023;26–35
+19;London;22-lip-23;28-lip-23;6;Olivia Rodriguez;35;Female;British;Hotel;1200;Train;150;1350;Jul 2023;26–35
+20;Tokyo;05-paź-23;15-paź-23;10;Kenji Nakamura;45;Male;Japanese;Hotel;1200;Plane;800;2000;Oct 2023;36–50
+21;New York;20-lis-23;25-lis-23;5;Emily Lee;27;Female;American;Airbnb;600;Bus;100;700;Nov 2023;26–35
+22;Sydney;05-gru-23;12-gru-23;7;James Wilson;32;Male;Australian;Hotel;1000;Plane;600;1600;Dec 2023;26–35
+23;Rome;01-lis-23;08-lis-23;7;Sofia Russo;29;Female;Italian;Airbnb;700;Train;80;780;Nov 2023;26–35
+24;Bangkok;15-wrz-23;23-wrz-23;8;Raj Patel;40;Male;Indian;Hostel;400;Plane;500;900;Sep 2023;36–50
+25;Paris;22-gru-23;28-gru-23;6;Lily Nguyen;24;Female;Vietnamese;Hotel;1400;Train;100;1500;Dec 2023;Under 25
+26;Hawaii;01-sie-23;10-sie-23;9;David Kim;34;Male;Korean;Resort;2000;Plane;800;2800;Aug 2023;26–35
+27;Barcelona;20-paź-23;28-paź-23;8;Maria Garcia;31;Female;Spanish;Hotel;1100;Train;150;1250;Oct 2023;26–35
+28;Japan;10-maj-22;18-maj-22;8;Alice Smith;30;Female;American;Hotel;800;Plane;500;1300;May 2022;26–35
+29;Thailand;15-cze-22;22-cze-22;7;Bob Johnson;45;Male;Canadian;Hostel;200;Train;150;350;Jun 2022;36–50
+30;France;02-lip-22;11-lip-22;9;Charlie Lee;25;Male;Korean;Airbnb;600;Car rental;300;900;Jul 2022;Under 25
+31;Australia;20-sie-22;02-wrz-22;13;Emma Davis;28;Female;British;Hotel;1000;Car rental;500;1500;Aug 2022;26–35
+32;Brazil;05-wrz-22;14-wrz-22;9;Olivia Martin;33;Female;Australian;Hostel;150;Bus;50;200;Sep 2022;26–35
+33;Greece;12-paź-22;20-paź-22;8;Harry Wilson;20;Male;American;Airbnb;400;Plane;600;1000;Oct 2022;Under 25
+34;Egypt;08-lis-22;15-lis-22;7;Sophia Lee;37;Female;Canadian;Hotel;700;Train;100;800;Nov 2022;36–50
+35;Mexico;05-sty-23;15-sty-23;10;James Brown;42;Male;British;Airbnb;500;Plane;800;1300;Jan 2023;36–50
+36;Italy;14-lut-23;20-lut-23;6;Mia Johnson;31;Female;American;Hostel;180;Train;120;300;Feb 2023;26–35
+37;Spain;23-mar-23;31-mar-23;8;William Davis;27;Male;Korean;Hotel;900;Car rental;400;1300;Mar 2023;26–35
+38;Canada;19-kwi-23;26-kwi-23;7;Amelia Brown;38;Female;Australian;Airbnb;350;Bus;75;425;Apr 2023;36–50
+39;Paris, France;12-cze-22;19-cze-22;7;Mia Johnson;25;Female;American;Hotel;1400;Plane;600;2000;Jun 2022;Under 25
+40;Sydney, Australia;02-sty-23;09-sty-23;7;Adam Lee;33;Male;Canadian;Airbnb;800;Train;150;950;Jan 2023;26–35
+41;Tokyo, Japan;10-gru-22;18-gru-22;8;Sarah Wong;28;Female;Chinese;Hostel;500;Plane;900;1400;Dec 2022;26–35
+42;Cancun, Mexico;01-lip-23;08-lip-23;7;John Smith;45;Male;American;Resort;2200;Plane;800;3000;Jul 2023;36–50
+43;Rio de Janeiro, Brazil;20-lis-22;27-lis-22;7;Maria Silva;30;Female;Brazilian;Hotel;1200;Plane;700;1900;Nov 2022;26–35
+44;London, UK;05-mar-23;12-mar-23;7;Peter Brown;55;Male;British;Airbnb;900;Train;100;1000;Mar 2023;Over 50
+45;Barcelona, Spain;18-sie-23;25-sie-23;7;Emma Garcia;27;Female;Spanish;Hostel;600;Plane;600;1200;Aug 2023;26–35
+46;New York City, USA;15-wrz-22;22-wrz-22;7;Michael Davis;41;Male;American;Hotel;1500;Plane;500;2000;Sep 2022;36–50
+47;Bangkok, Thailand;01-maj-23;07-maj-23;6;Nina Patel;29;Female;Indian;Airbnb;500;Bus;50;550;May 2023;26–35
+48;Vancouver, Canada;10-lip-22;17-lip-22;7;Kevin Kim;24;Male;Korean;Hostel;400;Train;150;550;Jul 2022;Under 25
+49;Amsterdam, Netherlands;20-cze-23;28-cze-23;8;Laura van den Berg;31;Female;Dutch;Hotel;1100;Plane;700;1800;Jun 2023;26–35
+50;Paris, France;15-sie-23;22-sie-23;7;Jennifer Nguyen;31;Female;Canadian;Hotel;1200;Train;300;1500;Aug 2023;26–35
+51;Tokyo, Japan;10-paź-23;20-paź-23;10;David Kim;25;Male;American;Hostel;500;Bus;100;600;Oct 2023;Under 25
+52;Sydney, AUS;05-lis-23;12-lis-23;7;Rachel Lee;27;Female;South Korean;Airbnb;900;Car rental;200;1100;Nov 2023;26–35
+53;New York, USA;24-gru-23;31-gru-23;7;Jessica Wong;28;Female;Canadian;Hotel;1400;Flight;800;2200;Dec 2023;26–35
+54;Rio de Janeiro, Brazil;15-sty-24;24-sty-24;9;Felipe Almeida;30;Male;Brazilian;Airbnb;800;Train;150;950;Jan 2024;26–35
+55;Bangkok, Thailand;01-lut-24;09-lut-24;8;Nisa Patel;23;Female;Indian;Hostel;400;Bus;50;450;Feb 2024;Under 25
+56;London, UK;15-mar-24;23-mar-24;8;Ben Smith;35;Male;British;Hotel;1000;Train;200;1200;Mar 2024;26–35
+57;Barcelona, Spain;05-kwi-24;13-kwi-24;8;Laura Gomez;29;Female;Spanish;Airbnb;700;Car rental;250;950;Apr 2024;26–35
+58;Seoul, South Korea;10-maj-24;18-maj-24;8;Park Min Woo;27;Male;South Korean;Hostel;500;Subway;20;520;May 2024;26–35
+59;Los Angeles, USA;20-cze-24;27-cze-24;7;Michael Chen;26;Male;Chinese;Hotel;1200;Car rental;300;1500;Jun 2024;26–35
+60;Rome, Italy;15-lip-24;23-lip-24;8;Sofia Rossi;33;Female;Italian;Airbnb;800;Train;100;900;Jul 2024;26–35
+61;Paris;12-lip-22;18-lip-22;6;Rachel Sanders;35;Female;American;Hotel;1200;Plane;800;2000;Jul 2022;26–35
+62;Tokyo;03-wrz-22;10-wrz-22;7;Kenji Nakamura;28;Male;Japanese;Hostel;400;Train;300;700;Sep 2022;26–35
+63;Cape Town;07-sty-23;16-sty-23;9;Emily Watson;29;Female;British;Vacation rental;800;Car rental;200;1000;Jan 2023;26–35
+64;Sydney;23-cze-23;29-cze-23;6;David Lee;43;Male;Australian;Hotel;1500;Plane;1200;2700;Jun 2023;36–50
+65;Barcelona;18-sie-23;25-sie-23;7;Ana Rodriguez;31;Female;Spanish;Vacation rental;900;Plane;700;1600;Aug 2023;26–35
+66;Bali;01-lut-24;08-lut-24;7;Tom Wilson;27;Male;American;Resort;2200;Plane;1000;3200;Feb 2024;26–35
+67;Paris;06-maj-24;12-maj-24;6;Olivia Green;39;Female;French;Hotel;1100;Train;200;1300;May 2024;36–50
+68;New York;20-lip-24;26-lip-24;6;James Chen;25;Male;American;Vacation rental;1000;Plane;800;1800;Jul 2024;Under 25
+69;Bangkok;08-wrz-24;16-wrz-24;8;Lila Patel;33;Female;Indian;Hostel;300;Plane;700;1000;Sep 2024;26–35
+70;Rome;14-lut-25;20-lut-25;6;Marco Rossi;41;Male;Italian;Hotel;1300;Train;100;1400;Feb 2025;36–50
+71;Bali;21-maj-25;29-maj-25;8;Sarah Brown;37;Female;British;Resort;1800;Plane;1000;2800;May 2025;36–50
+73;Bali, Indonesia;05-sie-22;12-sie-22;7;Sarah Lee;35;Female;South Korean;Resort;500;Plane;800;1300;Aug 2022;26–35
+74;Tokyo, Japan;01-sty-23;09-sty-23;8;Alex Kim;29;Male;American;Hotel;1000;Train;200;1200;Jan 2023;26–35
+75;Cancun, Mexico;15-kwi-23;22-kwi-23;7;Maria Hernandez;42;Female;Mexican;Resort;800;Plane;500;1300;Apr 2023;36–50
+76;Paris, France;07-cze-23;14-cze-23;7;John Smith;46;Male;British;Hotel;1200;Plane;700;1900;Jun 2023;36–50
+77;Cape Town, SA;01-wrz-23;10-wrz-23;9;Mark Johnson;31;Male;South African;Guesthouse;400;Car;300;700;Sep 2023;26–35
+78;Bali, Indonesia;12-lis-23;19-lis-23;7;Amanda Chen;25;Female;Taiwanese;Resort;600;Plane;700;1300;Nov 2023;Under 25
+79;Sydney, AUS;05-lut-24;12-lut-24;7;David Lee;38;Male;Australian;Hotel;900;Plane;600;1500;Feb 2024;36–50
+80;Bangkok, Thai;15-maj-24;22-maj-24;7;Nana Kwon;27;Female;Korean;Hotel;400;Plane;400;800;May 2024;26–35
+81;New York, USA;20-sie-24;27-sie-24;7;Tom Hanks;60;Male;American;Hotel;1500;Plane;1000;2500;Aug 2024;Over 50
+82;Phuket, Thai;01-sty-25;08-sty-25;7;Emma Watson;32;Female;British;Resort;700;Plane;800;1500;Jan 2025;26–35
+84;Paris;15-cze-21;20-cze-21;6;John Smith;35;Male;American;Hotel;800;Plane;500;1300;Jun 2021;26–35
+85;Tokyo;01-lip-21;10-lip-21;10;Sarah Lee;28;Female;Korean;Airbnb;500;Train;300;800;Jul 2021;26–35
+86;Bali;10-sie-21;20-sie-21;11;Maria Garcia;42;Female;Spanish;Resort;1200;Plane;700;1900;Aug 2021;36–50
+87;Sydney;01-wrz-21;10-wrz-21;9;David Lee;45;Male;Australian;Hotel;900;Plane;600;1500;Sep 2021;36–50
+88;New York;15-paź-21;20-paź-21;6;Emily Davis;31;Female;American;Airbnb;700;Car rental;200;900;Oct 2021;26–35
+89;London;20-lis-21;30-lis-21;11;James Wilson;29;Male;British;Hostel;300;Plane;400;700;Nov 2021;26–35
+90;Dubai;01-sty-22;08-sty-22;8;Fatima Ahmed;24;Female;Emirati;Hotel;1000;Plane;800;1800;Jan 2022;Under 25
+91;Bangkok;14-lut-22;20-lut-22;7;Liam Nguyen;26;Male;Vietnamese;Airbnb;400;Train;100;500;Feb 2022;26–35
+92;Rome;10-mar-22;20-mar-22;11;Giulia Rossi;30;Female;Italian;Hostel;200;Plane;350;550;Mar 2022;26–35
+93;Bali;15-kwi-22;25-kwi-22;11;Putra Wijaya;33;Male;Indonesian;Villa;1500;Car rental;300;1800;Apr 2022;26–35
+94;Seoul;01-maj-22;10-maj-22;10;Kim Min-ji;27;Female;Korean;Hotel;800;Train;150;950;May 2022;26–35
+95;Paris;15-cze-22;20-cze-22;5;John Smith;35;Male;USA;Hotel;500;Plane;800;1300;Jun 2022;26–35
+96;Tokyo;01-wrz-22;10-wrz-22;9;Emily Johnson;28;Female;Canada;Airbnb;400;Train;200;600;Sep 2022;26–35
+97;Sydney;23-lis-22;02-gru-22;9;David Lee;45;Male;South Korea;Hostel;200;Plane;1200;1400;Nov 2022;36–50
+98;London;14-lut-23;19-lut-23;5;Sarah Brown;37;Female;UK;Hotel;600;Plane;700;1300;Feb 2023;36–50
+99;New York;08-maj-23;14-maj-23;6;Michael Wong;50;Male;China;Airbnb;800;Car rental;300;1100;May 2023;36–50
+100;Rome;20-sie-23;27-sie-23;7;Jessica Chen;31;Female;Taiwan;Hotel;700;Plane;900;1600;Aug 2023;26–35
+101;Bangkok;12-lis-23;20-lis-23;8;Ken Tanaka;42;Male;Japan;Hostel;300;Train;100;400;Nov 2023;36–50
+102;Cape Town;06-sty-24;14-sty-24;8;Maria Garcia;27;Female;Spain;Airbnb;500;Plane;1500;2000;Jan 2024;26–35
+103;Rio de Janeiro;03-kwi-24;10-kwi-24;7;Rodrigo Oliveira;33;Male;Brazil;Hotel;900;Car rental;400;1300;Apr 2024;26–35
+104;Bali;22-lip-24;28-lip-24;6;Olivia Kim;29;Female;South Korea;Villa;1200;Plane;1000;2200;Jul 2024;26–35
+105;Amsterdam;10-paź-24;17-paź-24;7;Robert Mueller;41;Male;Germany;Hotel;600;Train;150;750;Oct 2024;36–50
+106;Paris;15-maj-22;20-maj-22;5;John Smith;35;Male;USA;Hotel;1000;Plane;800;1800;May 2022;26–35
+107;Tokyo;01-wrz-22;10-wrz-22;9;Sarah Lee;28;Female;South Korea;Airbnb;800;Train;500;1300;Sep 2022;26–35
+108;New York;20-cze-22;25-cze-22;5;Michael Wong;42;Male;Hong Kong;Hotel;1200;Car rental;200;1400;Jun 2022;36–50
+109;Bali;12-sie-22;20-sie-22;8;Lisa Chen;30;Female;Taiwan;Resort;1500;Plane;1200;2700;Aug 2022;26–35
+110;Sydney;01-lip-22;10-lip-22;9;David Kim;26;Male;Canada;Hostel;300;Plane;900;1200;Jul 2022;26–35
+111;London;10-cze-22;15-cze-22;5;Emily Wong;38;Female;United Kingdom;Hotel;900;Train;150;1050;Jun 2022;36–50
+112;Phuket;05-wrz-22;12-wrz-22;7;Mark Tan;45;Male;Singapore;Villa;2000;Plane;700;2700;Sep 2022;36–50
+113;Rome;01-maj-22;08-maj-22;7;Emma Lee;31;Female;Italy;Hotel;1100;Train;250;1350;May 2022;26–35
+114;Santorini;15-lip-22;22-lip-22;7;George Chen;27;Male;Greece;Airbnb;1000;Ferry;150;1150;Jul 2022;26–35
+115;Dubai;25-sie-22;30-sie-22;5;Sophia Kim;29;Female;United Arab Emirates;Hotel;1500;Car rental;300;1800;Aug 2022;26–35
+116;Phnom Penh;10-wrz-22;15-wrz-22;5;Alex Ng;33;Male;Cambodia;Hostel;200;Plane;500;700;Sep 2022;26–35
+117;Tokyo, Japan;05-lut-22;14-lut-22;9;Alice Smith;32;Female;American;Hotel;1000;Plane;700;1700;Feb 2022;26–35
+118;Paris, France;15-mar-22;22-mar-22;7;Bob Johnson;47;Male;Canadian;Hotel;1200;Train;500;1700;Mar 2022;36–50
+119;Sydney, AUS;01-maj-22;12-maj-22;11;Cindy Chen;26;Female;Chinese;Airbnb;800;Plane;1000;1800;May 2022;26–35
+120;Rome, Italy;10-cze-22;17-cze-22;7;David Lee;38;Male;Korean;Hotel;900;Train;400;1300;Jun 2022;36–50
+121;Bali, Indonesia;20-lip-22;30-lip-22;10;Emily Kim;29;Female;Korean;Hostel;500;Plane;800;1300;Jul 2022;26–35
+122;Cancun, Mexico;08-sie-22;16-sie-22;8;Frank Li;41;Male;American;Hotel;1300;Plane;600;1900;Aug 2022;36–50
+123;Athens, Greece;20-wrz-22;30-wrz-22;10;Gina Lee;35;Female;Korean;Airbnb;700;Plane;900;1600;Sep 2022;26–35
+124;Tokyo, Japan;05-paź-22;13-paź-22;8;Henry Kim;24;Male;Korean;Hotel;1200;Plane;700;1900;Oct 2022;Under 25
+125;Sydney, AUS;11-lis-22;21-lis-22;10;Isabella Chen;30;Female;Chinese;Airbnb;900;Plane;1000;1900;Nov 2022;26–35
+126;Paris, France;24-gru-22;01-sty-23;8;Jack Smith;28;Male;American;Hostel;400;Plane;700;1100;Dec 2022;26–35
+127;Bali, Indonesia;10-lut-23;18-lut-23;8;Katie Johnson;33;Female;Canadian;Hotel;800;Plane;800;1600;Feb 2023;26–35
+129;Paris, France;01-maj-23;07-maj-23;6;John Doe;35;Male;American;Hotel;5000;Airplane;2500;7500;May 2023;26–35
+130;Tokyo, Japan;15-maj-23;22-maj-23;7;Jane Smith;28;Female;British;Airbnb;7000;Train;1500;8500;May 2023;26–35
+131;Cape Town, South Africa;01-cze-23;10-cze-23;9;Michael Johnson;45;Male;South African;Hostel;3000;Car;2000;5000;Jun 2023;36–50
+132;Sydney, Australia;15-cze-23;21-cze-23;6;Sarah Lee;31;Female;Australian;Hotel;6000;Airplane;3000;9000;Jun 2023;26–35
+133;Rome, Italy;01-lip-23;08-lip-23;7;David Kim;42;Male;Korean;Airbnb;4000;Train;1500;5500;Jul 2023;36–50
+134;New York City, USA;15-lip-23;22-lip-23;7;Emily Davis;27;Female;American;Hotel;8000;Airplane;2500;10500;Jul 2023;26–35
+135;Rio de Janeiro, Brazil;01-sie-23;10-sie-23;9;Jose Perez;37;Male;Brazilian;Hostel;2500;Car;2000;4500;Aug 2023;36–50
+136;Vancouver, Canada;15-sie-23;21-sie-23;6;Emma Wilson;29;Female;Canadian;Hotel;5000;Airplane;3000;8000;Aug 2023;26–35
+137;Bangkok, Thailand;01-wrz-23;08-wrz-23;7;Ryan Chen;34;Male;Chinese;Hostel;2000;Train;1000;3000;Sep 2023;26–35
+138;Barcelona, Spain;15-wrz-23;22-wrz-23;7;Sofia Rodriguez;25;Female;Spanish;Airbnb;6000;Airplane;2500;8500;Sep 2023;Under 25
+139;Auckland, New Zealand;01-paź-23;08-paź-23;7;William Brown;39;Male;New Zealander;Hotel;7000;Train;2500;9500;Oct 2023;36–50
