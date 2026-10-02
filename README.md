@@ -53,13 +53,13 @@ Full before/after log (14 documented issues) available in the repo.
 ![Landing Page](images/landing_page.png)
 
 **1. Growth Overview** — Is the business growing, and how? Revenue, trips, YoY growth (full years only) and retention rate at a glance, a 12-month seasonality view, and a New-vs-Returning revenue split by year.
-![Growth Overview](images/growth_overview.png)
+![Growth Overview](images/growth_overview_v2.png)
 
 **2. Traveler Insights** — Who are the customers, and are they coming back? Gender, age and nationality segmentation, a Country × Age Group matrix, and a cumulative retention-rate trend.
-![Traveler Insights](images/traveler_insights.png)
+![Traveler Insights](images/traveler_insights_v2.png)
 
 **3. Cost & Risk Analysis** — Where is the money going, and where's the risk? Cost by accommodation and transportation type, cost-by-destination vs. cost-per-day, and volume/revenue over time.
-![Cost & Risk Analysis](images/cost_risk_analysis.png)
+![Cost & Risk Analysis](images/cost_risk_analysis_v2.png)
 
 ## Interactive Features & UX Design
 
