@@ -2,7 +2,7 @@
 
 Power BI dashboard analyzing four years of booking data (2021–2025) for a fictional OTA (Online Travel Agency), built to help commercial leadership understand what is driving revenue growth, who the customers are, and where cost and retention risk sit in the business.
 
-**[View the live report](#) · [Download the .pbix](#) · [LinkedIn](https://www.linkedin.com/in/monika-monczak-76481315b/)**
+
 
 ---
 
